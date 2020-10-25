@@ -3,21 +3,20 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/lmntrixisid/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src="https://github.com/skjha1/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
 
-## Hi there, I'm Siddhant - aka [lmntrixsid] 👋
-Not a nerd, not a weirdo, just a responsible man!
-In a constant motion of doing something productive! 
+## Hi there, I'm Shivendra 👋
+A lifelong learner and i belive in hard work
 
 ### I'm a Student, Developer, Technocrat and a community guy!
-- 🔭 I’m currently working on a MERN
-- 🌱 I’m currently learning everything 🤣
-- 💻 I've decent experience in Data science, security and Cloud Computing
-- 👯 I’m looking to collaborate on real Deep learning projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook, watch anime and play hardcore action games
+- 🔭 I’m currently Exploring Data science.
+- 🌱 I am so much interested in tech.
+- 💻 I've hands-on experience in Data science, Machine learning, SEO.
+- 👯 I’m looking to collaborate on real Machine Learning projects
+- 🥅 2020 Goals: Contribute more to Open Source projects && strengthen programming skills.
+- ⚡ Fun fact: I love to listen songs, doing Yoga.
 
 ### Languages and Tools:
 
@@ -37,7 +36,7 @@ In a constant motion of doing something productive!
 <img align="left" alt="Terminal" width="26px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png" />
 <br/>
 
- ![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=lmntrixsid&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmntrixsid&hide=css&theme=radical)
+ ![Shivendra Github Stats](https://github-readme-stats.vercel.app/api?username=skjha1_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skjha1=css&theme=radical)
 
 
 
