@@ -9,8 +9,10 @@ A Consistent learner and i belive in hard work.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=skjha1)
 
-![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
+
 
 ![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=skjha1&repo=Data-Structure-Algorithm&theme=material-palenight)
+
+![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
 
 
