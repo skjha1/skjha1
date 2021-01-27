@@ -6,7 +6,10 @@ A Consistent learner and i belive in hard work.
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=skjha1&theme=tokyonight&hide_langs_below=4' align="middle" />
 
 
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=skjha1)
+
+![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
 
 
 
