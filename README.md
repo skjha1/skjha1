@@ -8,7 +8,6 @@ A Consistent learner and i belive in hard work.
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=skjha1)
-[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=skjha1)](https://github.com/skjha1/Placement)
 
 
 ![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=skjha1&repo=Data-Structure-Algorithm&theme=great-gatsby)
