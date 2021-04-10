@@ -1,5 +1,5 @@
 ## Hi there, I'm Shivendra 👋
-A Consistent learner and i belive in hard work.
+A Consistent learner who belives in hard work.
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=skjha1&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
