@@ -7,8 +7,6 @@ A Consistent learner who belives in hard work.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skjha1" alt="skjha1" /></a> </p>
 
-
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=skjha1)
 
 
