@@ -12,8 +12,6 @@ A Consistent learner who belives in hard work.
 
 ![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=skjha1&repo=Data-Structure-Algorithm-Programs&theme=great-gatsby)
 
-![Metrics](https://metrics.lecoq.io/skjha1?template=classic&config.timezone=Asia%2FCalcutta)
-
 ![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
 
 
