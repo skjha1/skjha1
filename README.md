@@ -8,9 +8,11 @@ A Consistent learner who belives in hard work.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skjha1" alt="skjha1" /></a> </p>
 
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=skjha1)
+
 
 ![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=skjha1&repo=Data-Structure-Algorithm-Programs&theme=great-gatsby)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=skjha1)
 
 ![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
 
