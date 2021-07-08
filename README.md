@@ -6,7 +6,6 @@ A Consistent learner who belives in hard work.
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=skjha1&theme=tokyonight&hide_langs_below=4' align="middle" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skjha1" alt="skjha1" /></a> </p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skjha1)](https://git.io/streak-stats)
 
 
